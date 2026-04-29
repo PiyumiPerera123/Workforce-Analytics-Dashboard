@@ -23,16 +23,17 @@ This project is an interactive Power BI dashboard built to analyze workforce dat
 ##  Dashboard Preview
 
 ![Dashboard Screenshot](Dashboard/page1.png)
+
 ![Dashboard Screenshot](Dashboard/page2.png)
 ---
 
-##  Key Insights
--  Total Employees: **310** | Active Workforce: **182**  
--  Average Employee Tenure: **8.57 years**  
--  Performance distribution across departments and demographics  
--  Workforce breakdown by gender, age, race, and marital status  
--  Key reasons for employee turnover identified  
--  Department-wise employee distribution and employment status  
+##  Key Visuals:
+- Employee distribution by performance, gender, age, race, and marital status
+- Employee distribution by performance, gender, age, race, and marital status
+- Hiring and termination trends over time 
+- Employment status breakdown
+- Top reasons for employee turnover 
+- Department-wise employee count 
 
 ---
 
