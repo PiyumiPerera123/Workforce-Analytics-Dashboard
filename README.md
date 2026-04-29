@@ -21,7 +21,7 @@ This project is an interactive Power BI dashboard built to analyze workforce dat
 ---
 
 ##  Dashboard Preview
-
+![Dashboard Screenshot](Dashboard/page1.png)
 <br>
 
 ![Dashboard Screenshot](Dashboard/page2.png)
