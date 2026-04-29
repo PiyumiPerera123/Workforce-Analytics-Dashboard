@@ -22,19 +22,16 @@ This project is an interactive Power BI dashboard built to analyze workforce dat
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](Dashboard/page1.png)
+<br>
 
 ![Dashboard Screenshot](Dashboard/page2.png)
 ---
 
-##  Key Visuals:
-- Employee distribution by performance, gender, age, race, and marital status
-- Employee distribution by performance, gender, age, race, and marital status
-- Hiring and termination trends over time 
-- Employment status breakdown
-- Top reasons for employee turnover 
-- Department-wise employee count 
-
+##  Key insights:
+- 310 employees with 182 active; notable turnover observed
+- Average tenure is 8.57 years
+- Turnover shows an increasing trend over time
+- Production is the largest department
 ---
 
 ##  Conclusion
